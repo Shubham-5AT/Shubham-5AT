@@ -47,14 +47,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 🎯 Current Goals
 
 - Master Next.js
@@ -67,9 +59,8 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
+- GitHub: https://github.com/Shubham-5AT
+- LinkedIn: https://www.linkedin.com/in/shubham-3614b0360/
 
 ---
 
